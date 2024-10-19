@@ -6,6 +6,8 @@
  */
 
 const loginFormElement = document.querySelector('#loginForm');
+
+//membuat variable untuk input email dan password
 const inputEmailElement = document.querySelector('#inputEmail');
 const inputPasswordElement = document.querySelector('#inputPassword');
 
